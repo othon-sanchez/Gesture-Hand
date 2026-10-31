@@ -9,3 +9,6 @@ Current Loot:
 - 1x SG90 Servo
 - 1x 5V Breadboard Power Supply
 
+Firmware setup
+- Created the ServoPWMTest project for CY8CKIT-062S2-AI using HAL PWM Square Wave
+- Baseline build: completed with 0 errors and 1 linker warning
